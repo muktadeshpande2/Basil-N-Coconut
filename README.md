@@ -8,7 +8,7 @@ To be able to run this project on local machine , one must have Node.JS installe
 
 To run this project locally : 
 
-1. Clone the project folder from the repository.
+1. Download the project folder from the repository.
 2. Open the Terminal or the Command Line Interface inside the downloaded project folder.
 3. Type the command : npm start
 
