@@ -1,4 +1,4 @@
-This is a website for the restaurant Basil&Coconut that serves South Indian and Italian Fusion Food .
+This is a website for the restaurant Basil-N-Coconut that serves South Indian and Italian Fusion Food .
 
 This project has been made to understand the basics of Web Development.
 
